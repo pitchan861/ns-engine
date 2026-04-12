@@ -1,3 +1,5 @@
+Break your thoughts. Rebuild them with AI — instantly.
+
 NS Engine
 
 考えを、いったんほどいて、考え直す方法
