@@ -43,6 +43,7 @@ Break the following thought into parts.
 - Turn assumptions into conditions (when true / when not true).
 - Generate alternative or opposite views.
 - Rebuild the idea in a simple and structured way.
+- Keep the output simple and short.
 
 Now analyze this:
 ```
