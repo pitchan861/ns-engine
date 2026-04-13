@@ -85,6 +85,11 @@ Small changes in how you think can change how you understand the world.
 
 No pressure. Just try once.
 
+## License
+
+CC BY 4.0
+Author: NS Engine (pitchan)
+
 ---
 
 ## 日本語
