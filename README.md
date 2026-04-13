@@ -29,6 +29,10 @@ It uses AI as an external thinking system.
 3. After the prompt, write your own problem or question.
 4. Start chatting with the AI as usual.
 
+Write one simple thought. It does not need to be correct.  
+Do not change the prompt. Just add your thought below it.  
+You will notice your thinking becomes clearer.
+
 ### Prompt (copy and use)
 
 ```
