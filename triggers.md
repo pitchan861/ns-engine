@@ -92,6 +92,11 @@ Write → AI structures → You receive a clearer view.
 
 That is all.
 
+## License
+
+CC BY 4.0
+Author: NS Engine (pitchan)
+
 ---
 
 ## 日本語
